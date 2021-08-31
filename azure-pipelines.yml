@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: DESKTOP-3965HOA
+pool: Default
 #  vmImage: ubuntu-latest
 
 
