@@ -6,8 +6,9 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: DESKTOP-3965HOA
+#  vmImage: ubuntu-latest
+
 
 steps:
 - task: NodeTool@0
